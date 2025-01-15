@@ -5,7 +5,7 @@
 
 ## 데이터 출처  
 - **소상공인시장진흥공단 상가업소정보**  
-  [데이터 출처: https://www.data.go.kr/dataset/15012005/fileData.do](https://www.data.go.kr/dataset/15012005/fileData.do)
+  데이터 출처:[ https://www.data.go.kr/dataset/15012005/fileData.do](https://www.data.go.kr/dataset/15012005/fileData.do)
 
 ## 데이터 처리 및 전처리 과정  
 1. **데이터 로드 및 확인**  
